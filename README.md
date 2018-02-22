@@ -30,11 +30,14 @@ Our next-generation medical records guide medical professionals, insurers and ot
 4. Examination of medical fee compensation fee by the country => AI automatically judges the necessity of medical fee payment requiring two months for procedures
 
 
-<h2>AI Clinic</h2>
+<h2>3. AI Clinic</h2>
 NAM AI clinic operated by our company aims at the cutting-edge clinic adopting our medical AI service technology.
 
 In this clinic, cutting-edge blood test and genome testing are performed.
 In addition, AI who acquired the most advanced academic papers all over the world makes it possible to determine all the disease risks of patients.
 
 Our clinic allows for disease risk estimation and health management using AI and is an advanced clinic that can not be imitated by other clinics.
+
+
+
 
